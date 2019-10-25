@@ -1,0 +1,74 @@
+body{
+background-image: url(https://www.hornbach.lu/data/shop/D04/001/780/498/824/62/DV_8_6056302_01_4c_CZ_20160511051218.jpg)}
+
+
+	h1 {
+	color:#000050;
+	font-size: 80px;
+	font-family: helvetiva;
+	font-style: bold;
+}
+	h2 {
+	color:#000050;
+	font-size: 40px;
+	font-family: helvetiva;
+	font-style: thin;
+	font-weight: 100
+}
+	h3 {
+	color:#fc7978;
+	font-size: 50px;
+	font-family: helvetiva;
+	font-style: italic;
+}
+	h4 {
+	color:gray;
+	font-size: 30px;
+	font-family: helvetiva;
+}
+	h5 {
+	color:gray;
+	font-size: 25px;
+	font-family: helvetiva;
+	font-style: italic;
+}
+p{
+	color:black;
+	font-size: 20px ;
+	font-style : serif;
+}
+
+a{
+	Color:#fc7978;
+	font-size: 50px;
+	font-style: initial;
+	transition: all 0.2s linear;
+	padding: 15px;
+}
+
+a:hover, a:focus {
+color: #357099;
+}
+
+div{
+	background: white;
+    box-shadow: 2px 2px 3px #fc7978;
+    margin: 150px;
+    padding: 50px;
+    border: 1px black;
+    border-radius: 5px;
+}
+@media	(max-width: 720px){
+
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+}
+.img-circle { border-radius: 50%}
